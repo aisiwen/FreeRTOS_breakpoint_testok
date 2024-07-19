@@ -1,5 +1,7 @@
 # 单片机2个调试绝招_修改bin实现多个断点调通---(来源aisiwen)
 
+程序源码git: https://github.com/aisiwen/FreeRTOS_breakpoint_testok.git
+
 ## 1. 背景
 
 韦东山老师直播公开课:`单片机开发过程中的2个调试绝招`,修改bin实现多断点在视频最后没调完.
